@@ -1,0 +1,6 @@
+% Model:              model.mph
+% Version:            COMSOL 6.3.0.290
+% Date:               Mar 21 2025, 13:29
+% Table:              Table 1 - Line Integration 1
+% F_t (N)                F_n (N)
+0.002537386615873812     0.05270414250248676
