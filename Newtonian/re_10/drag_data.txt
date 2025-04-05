@@ -1,6 +1,6 @@
 % Model:              model_laminar.mph
 % Version:            COMSOL 6.3.0.290
-% Date:               Mar 21 2025, 14:45
+% Date:               Apr 1 2025, 16:02
 % Table:              Table 1 - Line Integration 1
 % -spf.K_stressz (N)     spf.nzmesh*p (N)
-0.44240059629656897      0.28917009711235525
+0.4424005962965943       0.2891700971123701
